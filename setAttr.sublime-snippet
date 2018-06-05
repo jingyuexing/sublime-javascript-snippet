@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${0:Element}.setAttribute("${0:Attr}")]]></content>
+	<tabTrigger>setattrues</tabTrigger>
+	<description>setAttribute()</description>
+	<scope>source.js</scope>
+</snippet>

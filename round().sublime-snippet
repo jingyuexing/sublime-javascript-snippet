@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Math.round();]]></content>
+	<tabTrigger>rou</tabTrigger>
+	<scope>source.js</scope>
+	<description>Math.round()</description>
+</snippet>

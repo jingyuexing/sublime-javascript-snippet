@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toDateString()]]></content>
+	<tabTrigger>todatestring</tabTrigger>
+	<scope>source.js</scope>
+	<description>Date-toDateString()</description>
+</snippet>

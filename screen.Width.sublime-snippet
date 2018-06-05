@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[window.screen.availWidth]]></content>
+	<tabTrigger>scr</tabTrigger>
+	<scope>source.js</scope>
+	<description>screen.availWidth</description>
+</snippet>

@@ -1,0 +1,92 @@
+<snippet>
+	<content><![CDATA[${0:document.body}.scrollWidth]]></content>
+	<tabTrigger>document.body.scrollWidth</tabTrigger>
+	<description>scrollWidth</description>
+	<scope>source.js</scope>
+</snippet>
+<!--
+	document.body.scrollHeight
+	<snippet>
+	<content><![CDATA[${0:document.body}.scrollHeight]]></content>
+	<tabTrigger>document.body.scrollHeight</tabTrigger>
+	<description>scrollHeight</description>
+	<scope>source.js</scope>
+</snippet>
+
+
+	document.body.scrollTop
+<snippet>
+	<content><![CDATA[${0:document.body}.scrollTop]]></content>
+	<tabTrigger>document.body.scrollTop</tabTrigger>
+	<description>scrollTop</description>
+	<scope>source.js</scope>
+</snippet>
+
+	document.documentElement.scrollTop
+
+<snippet>
+	<content><![CDATA[${0:document.documentElement}.scrollTop]]></content>
+	<tabTrigger>document.documentElement.scrollTop</tabTrigger>
+	<description>scrollTop</description>
+	<scope>source.js</scope>
+</snippet>
+	document.body.scrollLeft
+
+<snippet>
+	<content><![CDATA[${0:document.documentElement}.scrollTop]]></content>
+	<tabTrigger>document.documentElement.scrollTop</tabTrigger>
+	<description>scrollTop</description>
+	<scope>source.js</scope>
+</snippet>
+	window.screenTop
+
+<snippet>
+	<content><![CDATA[window.screenTop]]></content>
+	<tabTrigger>screenTop</tabTrigger>
+	<description>window.screenTop</description>
+	<scope>source.js</scope>
+</snippet>
+	window.screenLeft
+
+
+
+
+<snippet>
+	<content><![CDATA[window.screen.height$0]]></content>
+	<tabTrigger>screen.height</tabTrigger>
+	<description>window.screen.height</description>
+	<scope>source.js</scope>
+</snippet>
+
+	window.screen.width
+
+
+	window.screen.availHeight
+
+<snippet>
+	<content><![CDATA[window.screen.availHeight]]></content>
+	<tabTrigger>windowscreenavailHeight</tabTrigger>
+	<description>window.screenTop</description>
+	<scope>source.js</scope>
+</snippet>
+
+
+
+
+
+
+<snippet>
+	<content><![CDATA[window.screen.colorDepth]]></content>
+	<tabTrigger>winscrecolorDepth</tabTrigger>
+	<description>window.screen.colorDepth</description>
+	<scope>source.js</scope>
+</snippet>
+
+
+<snippet>
+	<content><![CDATA[window.screen.deviceXDPI]]></content>
+	<tabTrigger>deviceXDPI</tabTrigger>
+	<description>window.screen.deviceXDPI</description>
+	<scope>source.js</scope>
+</snippet>
+ -->

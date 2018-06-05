@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	typeof($0)
+]]></content>
+	<tabTrigger>ty</tabTrigger>
+	<scope>source.js,</scope>
+	<description>typeof</description>
+</snippet>

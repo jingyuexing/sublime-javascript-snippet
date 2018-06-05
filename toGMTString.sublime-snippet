@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toGMTString()]]></content>
+	<tabTrigger>togmtstring</tabTrigger>
+	<scope>source.js</scope>
+	<description>Date-toGMTString()</description>
+</snippet>
