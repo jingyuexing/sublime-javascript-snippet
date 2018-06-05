@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		document.body.clientWidth;
+]]></content>
+	<tabTrigger>document.body.clientWidth</tabTrigger>
+	<scope>source.js, source.jsx</scope>
+	<description>clientWidth</description>
+</snippet>

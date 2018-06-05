@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[document.body.clientHeight]]></content>
+	<tabTrigger>document.body.clientHeight</tabTrigger>
+	<description>clientHeight</description>
+	<scope>source.js</scope>
+</snippet>

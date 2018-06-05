@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.textContent${="textStr"}]]></content>
+	<tabTrigger>textContent</tabTrigger>
+	<description>.textContent</description>
+	<scope>source.js</scope>
+</snippet>

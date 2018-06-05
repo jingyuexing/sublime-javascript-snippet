@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[location.assign()]]></content>
+	<tabTrigger>lo</tabTrigger>
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>location.assign()</description>
+</snippet>

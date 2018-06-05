@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.clientY]]></content>
+	<tabTrigger>clienty</tabTrigger>
+	<description>.clientY</description>
+	<scope>source.js</scope>
+</snippet>

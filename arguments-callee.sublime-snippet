@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[* argument.callee]]></content>
+	<tabTrigger>argcall</tabTrigger>
+	<description>argument.callee</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[attributes["${0:Attr}"].value]]></content>
+	<tabTrigger>attrues</tabTrigger>
+	<description>.attributes[].value</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[var ${0: } = new ActiveXObject();]]></content>
+	<tabTrigger>activexobject</tabTrigger>
+	<description>ActiveXObject</description>
+	<scope>source.js</scope>
+</snippet>

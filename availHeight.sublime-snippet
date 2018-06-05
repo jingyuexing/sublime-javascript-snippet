@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[window.screen.availHeight]]></content>
+	<tabTrigger>windowscreenavailHeight</tabTrigger>
+	<description>window.screenTop</description>
+	<scope>source.js</scope>
+</snippet>

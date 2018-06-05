@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addEventListener(${1:even},${2:function},${3:useCapture});]]></content>
+	<tabTrigger>addE</tabTrigger>
+	<scope>source.js</scope>
+	<description>addEventListener()</description>
+</snippet>

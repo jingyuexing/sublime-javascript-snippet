@@ -1,0 +1,165 @@
+<snippet>
+	<content><![CDATA[CopyFile($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+<!--
+CreateFolder() 创建新目录
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+
+CreateTextFile() 生成一个文件
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+DeleteFile() 删除一个文件
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+DeleteFolder() 删除一个目录
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+DriveExists() 检验盘符是否存在
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+Drives 返回盘符的集合
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+FileExists() 检验文件是否存在
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+FolderExists 检验一个目录是否存在
+<snippet>
+	<content><![CDATA[FolderExists($0)]]></content>
+	<tabTrigger>folderexists</tabTrigger>
+	<description>.FolderExists</description>
+	<scope>source.js</scope>
+</snippet>
+GetAbsolutePathName() 取得一个文件的绝对路径
+<snippet>
+	<content><![CDATA[GetAbsolutePathName()]]></content>
+	<tabTrigger>getabsolutepathname</tabTrigger>
+	<description>.GetAbsolutePathName()</description>
+	<scope>source.js</scope>
+</snippet>
+GetBaseName() 取得文件名
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetDrive() 取得盘符名
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetDriveName() 取得盘符名
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetExtensionName() 取得文件的后缀
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetFile() 生成文件对象
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetFileName() 取得文件名
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetFolder() 取得目录对象
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+GetParentFolderName 取得文件或目录的父目录名
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+
+GetSpecialFolder() 取得特殊的目录名
+
+<snippet>
+	<content><![CDATA[CreateFolder($0)]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+
+GetTempName() 生成一个临时文件对象
+
+<snippet>
+	<content><![CDATA[GetTempName()]]></content>
+	<tabTrigger>gettempname</tabTrigger>
+	<description>.GetTempName()</description>
+	<scope>source.js</scope>
+</snippet>
+
+MoveFile() 移动文件
+
+<snippet>
+	<content><![CDATA[MoveFile($0)]]></content>
+	<tabTrigger>movfile</tabTrigger>
+	<description>.MoveFile()</description>
+	<scope>source.js</scope>
+</snippet>
+
+MoveFolder() 移动目录
+
+<snippet>
+	<content><![CDATA[MoveFolder()]]></content>
+	<tabTrigger>copfile</tabTrigger>
+	<description>.CopyFile()</description>
+	<scope>source.js</scope>
+</snippet>
+OpenTextFile()
+ -->
