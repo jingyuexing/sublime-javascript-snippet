@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[app.locals({
-		${):title:"",
+		${0:title:"",
 		name:"",}
 		});]]></content>
 	<tabTrigger>app.locals</tabTrigger>
