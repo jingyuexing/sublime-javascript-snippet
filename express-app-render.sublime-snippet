@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.render('${0:view}', [options], ${2:callbackfunction});]]></content>
+	<tabTrigger>app.render</tabTrigger>
+	<description>app.render()</description>
+	<scope>source.js</scope>
+</snippet>

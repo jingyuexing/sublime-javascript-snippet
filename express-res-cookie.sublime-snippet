@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.cookie(${0:name},${1:value},${2:[options]});]]></content>
+	<tabTrigger>res.cookie</tabTrigger>
+	<description>express-res.cookie()</description>
+	<scope>source.js</scope>
+</snippet>

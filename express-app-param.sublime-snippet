@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.param('${0:[name]}',${1:callback});]]></content>
+	<tabTrigger>app.param</tabTrigger>
+	<description>express-app.param()</description>
+	<scope>source.js</scope>
+</snippet>

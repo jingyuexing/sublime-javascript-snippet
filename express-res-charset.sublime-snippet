@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.charset]]></content>
+	<tabTrigger>res.charset</tabTrigger>
+	<description>express-res.charset</description>
+	<scope>source.js</scope>
+</snippet>

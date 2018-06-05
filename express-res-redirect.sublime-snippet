@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.redirect(${0:[statusCode]}, '${2:url}');]]></content>
+	<tabTrigger>res.redirect</tabTrigger>
+	<description>express-res.redirect()</description>
+	<scope>source.js</scope>
+</snippet>

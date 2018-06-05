@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.use('${0:path}', ${1:function});]]></content>
+	<tabTrigger>app.use</tabTrigger>
+	<description>express-app.use()</description>
+	<scope>source.js</scope>
+</snippet>

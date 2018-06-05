@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.all('${0:path}', ${2:callback})]]></content>
+	<tabTrigger>app.all</tabTrigger>
+	<description>express-app.all()</description>
+	<scope>source.js</scope>
+</snippet>

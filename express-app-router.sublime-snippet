@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.routes]]></content>
+	<tabTrigger>app.routes</tabTrigger>
+	<description>express-app.routes()</description>
+	<scope>source.js</scope>
+</snippet>

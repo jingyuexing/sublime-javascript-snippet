@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.location('${0:url}');]]></content>
+	<tabTrigger>res.location</tabTrigger>
+	<description>express-res.location()</description>
+	<scope>source.js</scope>
+</snippet>

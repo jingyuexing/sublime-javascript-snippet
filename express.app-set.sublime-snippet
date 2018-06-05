@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.set(${name},${value});]]></content>
+	<tabTrigger>app.set</tabTrigger>
+	<description>express-app.set()</description>
+	<scope>source.js</scope>
+</snippet>

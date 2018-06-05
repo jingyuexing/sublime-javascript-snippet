@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.clearCookie(name, [options]);]]></content>
+	<tabTrigger>res.clearCookie</tabTrigger>
+	<description>express-res.clearCookie()</description>
+	<scope>source.js</scope>
+</snippet>

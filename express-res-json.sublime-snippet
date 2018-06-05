@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.json(${0:[status|body]},${1:[body]});]]></content>
+	<tabTrigger>resjson</tabTrigger>
+	<description>express-res.json()</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[app.VERB('${0:path}',${2:function()\{
+
+		\}})]]></content>
+	<tabTrigger>app.VERB</tabTrigger>
+	<description>express-app.VERB()</description>
+	<scope>source.js</scope>
+</snippet>

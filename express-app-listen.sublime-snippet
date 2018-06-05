@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.listen(${0:8080});]]></content>
+	<tabTrigger>app.listen</tabTrigger>
+	<description>express-app.listen()</description>
+	<scope>source.js</scope>
+</snippet>

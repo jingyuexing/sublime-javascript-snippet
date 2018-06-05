@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[res.send(${0:[body|status]},${1:[body]});]]></content>
+	<tabTrigger>res.send</tabTrigger>
+	<description>express-res.send()</description>
+	<scope>source.js</scope>
+</snippet>

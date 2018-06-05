@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[app.engine('${0:ext}', callback);]]></content>
+	<tabTrigger>apengine</tabTrigger>
+	<description>express-app.engine()</description>
+	<scope>source.js</scope>
+</snippet>

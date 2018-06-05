@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[app.locals({
+		${):title:"",
+		name:"",}
+		});]]></content>
+	<tabTrigger>app.locals</tabTrigger>
+	<description>express-app.locals()</description>
+	<scope>source.js</scope>
+</snippet>
